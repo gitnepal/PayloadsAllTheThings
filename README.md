@@ -31,6 +31,7 @@ You might also like :
 * [Wappalyzer](https://wappalyzer.com/download)
 * [Metasploit](https://www.metasploit.com/)
 * [OpenVAS](http://www.openvas.org/)
+* [Haxbar](rootnep.al/uploads/addons/hax_bar_beta.xpi) - Modified Haxbar & !compatible with Firefox Quantum
 
 
 ## Online Challenges
@@ -47,6 +48,7 @@ You might also like :
 * [HackThisSite](https://hackthissite.org)
 * [PentesterLab : Learn Web Penetration Testing: The Right Way](https://pentesterlab.com/)
 * [Hackers.gg](hackers.gg)
+* [Ctfs.me](ctfs.me)
 
 ## Bug Bounty
 * [HackerOne](https://hackerone.com)
